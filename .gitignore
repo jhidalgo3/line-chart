@@ -3,4 +3,5 @@ line-chart.sublime-project
 
 components/
 node_modules/
+bower_components/
 coverage/
